@@ -36,4 +36,4 @@ This command will publish publicly for unscoped package, and privately for scope
 
 ## How to use:
  * Add `import {Greeter} from 'js-stage';` to the top of the file
- * Calling `Greeter("zakhan")` returns `"Hello zakhan4"`
+ * Calling `Greeter("zakhan4")` returns `"Hello zakhan4"`
